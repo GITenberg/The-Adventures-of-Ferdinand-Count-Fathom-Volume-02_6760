@@ -1,4 +1,8 @@
 _repo: The-Adventures-of-Ferdinand-Count-Fathom-Volume-02_6760
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/838
     wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6760#The-Adventures-of-Ferdinand-Count-Fathom-Volume-02
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
